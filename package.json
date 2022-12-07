@@ -12,7 +12,7 @@
     "@zendeskgarden/react-grid": "^8.4.1",
     "@zendeskgarden/react-theming": "^8.4.1",
     "@zendeskgarden/react-typography": "^8.4.1",
-    "express": "4.15.2",
+    "express": "4.17.3",
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
